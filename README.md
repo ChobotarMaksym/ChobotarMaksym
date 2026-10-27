@@ -1,10 +1,10 @@
 # Maksym Chobotar
 
-**Product Analyst** with over 1 year of experience, operating at the intersection of unit economics, user behavior, and data modeling. Currently driving retail analytics as a Technical PM at FUIB (ex-Kyivstar TV).
+**Product Analyst** bringing 1+ years of analytics experience across subscription-based apps and banking. Currently driving retail analytics as a Technical PM at FUIB (ex-Kyivstar TV).
 
 [LinkedIn](https://linkedin.com/in/maksym-chobotar) • [Email](mailto:chobotarmaksym@gmail.com) • Kyiv, Ukraine
 
-📄 [View Resume (PDF)](https://drive.google.com/file/d/18Dzq0BTtEdzgSQpwlhbOGKUlbKXKqfRm/view?usp=sharing)
+📌 [View Resume (PDF)](https://drive.google.com/file/d/18Dzq0BTtEdzgSQpwlhbOGKUlbKXKqfRm/view?usp=sharing)
 ---
 
 ### 📊 Featured Analytics Projects
